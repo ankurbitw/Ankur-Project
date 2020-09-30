@@ -5,7 +5,7 @@
     <classes>
       <class name="DW.DW002">
         <methods>
-          <include name="f"/>
+          <include name="CheckLogInLogOut"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
         </methods>
